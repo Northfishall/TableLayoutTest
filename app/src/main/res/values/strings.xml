@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TableLayoutTest</string>
+    <string name="button1">Button!</string>
+    <string name="textview2">this is a TextView too!</string>
+    <string name="but2str">this is 2!</string>
+    <string name="but3str">this is 3!</string>
+    <string name="EditText3">this is a EditText!</string>
+</resources>
